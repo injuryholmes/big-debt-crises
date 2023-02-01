@@ -1,0 +1,7 @@
+site_name: My Docs
+markdown_extensions:
+  - footnotes
+
+nav:
+    - Home: index.md
+    - test: part1_The_Archetypal_Big_Debt_Cycle/How_I_think_about_Credit_and_Debt.md
