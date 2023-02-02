@@ -4,4 +4,5 @@ markdown_extensions:
 
 nav:
     - Home: index.md
-    - test: part1_The_Archetypal_Big_Debt_Cycle/How_I_think_about_Credit_and_Debt.md
+    - Part 1 典型债务大周期:
+      - 我如何看待信贷和债务: part1_The_Archetypal_Big_Debt_Cycle/How_I_think_about_Credit_and_Debt.md
